@@ -19,3 +19,4 @@ export const gpt3ApiKey = '<use-your-keys>';
 // You don't need these keys for any opensource experiences.
 export const googleApiKey = '<use-your-keys>';
 export const hfApiKey = '<use-your-keys>';
+export const imagekey = '<use-your-keys>';
